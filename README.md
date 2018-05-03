@@ -1,5 +1,6 @@
 # Hadoop_InvertedIndex
 Implementing Inverted Index on Hadoop cluster using Map-Reduce
+
 **Goal**
 
 Creating an Inverted Index of words occurring in a set of English books.
